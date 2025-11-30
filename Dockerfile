@@ -1,5 +1,5 @@
  #pull base image for requirement tools and others packages
-FROM python:3.7
+FROM python:3.10
 
 #creating a directory for copying
 WORKDIR /app
